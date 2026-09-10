@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+python-dotenv
+requests
+numpy-financial
+jupyter
+ipykernel
+openpyxl
