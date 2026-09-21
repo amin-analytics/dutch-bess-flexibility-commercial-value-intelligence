@@ -1,0 +1,17 @@
+metric,value
+backtest_start,2026-08-07 14:30:00+00:00
+backtest_end,2026-08-29 11:30:00+00:00
+forecast_origins,906
+realized_cash_pnl_eur,97768.13623119147
+economic_pnl_eur,97639.87424929504
+charge_energy_mwh,1143.7958914271687
+discharge_energy_mwh,953.5216384404109
+initial_soc_mwh,10.0
+final_soc_mwh,90.0
+daily_pnl_volatility_eur,8949.576573887405
+max_cash_drawdown_eur,-12678.782889900016
+profitable_days,10
+total_days,13
+profitable_day_ratio,0.7692307692307693
+simple_daily_sharpe,0.8403331489314351
+perfect_foresight_august_revenue_eur,434396.2052575576
