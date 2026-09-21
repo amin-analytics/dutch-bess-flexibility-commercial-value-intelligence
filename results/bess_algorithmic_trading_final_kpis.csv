@@ -1,0 +1,19 @@
+KPI,Value
+Forecast RMSE (€/MWh),42.23534395323962
+Forecast MAE (€/MWh),31.19571251279928
+RMSE improvement vs persistence,0.4178967396504728
+MAE improvement vs persistence,0.3969514554187923
+Backtest start,2026-08-07 14:30:00+00:00
+Backtest end,2026-08-29 11:30:00+00:00
+Trading decision intervals,906
+Realized cash PnL (€),97768.13623119147
+Economic PnL (€),97639.87424929504
+Energy charged (MWh),1143.7958914271687
+Energy discharged (MWh),953.5216384404109
+Initial SOC (MWh),10.0
+Final SOC (MWh),90.0
+Maximum cash drawdown (€),-12678.782889900016
+Profitable days,10/13
+Profitable-day ratio,0.7692307692307693
+Simple daily Sharpe,0.8403331489314351
+August perfect-foresight benchmark (€),434396.2052575576
