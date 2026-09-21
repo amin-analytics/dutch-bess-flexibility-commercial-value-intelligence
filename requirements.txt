@@ -8,3 +8,5 @@ numpy-financial
 jupyter
 ipykernel
 openpyxl
+scikit-learn
+lightgbm
